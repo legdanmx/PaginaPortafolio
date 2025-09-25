@@ -1,9 +1,9 @@
 [
     {
-        "name": "Mi Primer Proyecto",
+        "name": "Area y Perimetro de Figuras ",
         "description": "Una breve descripción de lo que hace mi primer proyecto. Explica sus funcionalidades clave y tecnologías utilizadas.",
-        "readmeUrl": "https://raw.githubusercontent.com/[TuUsuario]/[nombre-del-repo]/main/README.md",
-        "repoUrl": "https://github.com/[TuUsuario]/[nombre-del-repositorio]"
+        "readmeUrl": "https://github.com/legdanmx/AyPFigurasPHP/blob/main/README.md",
+        "repoUrl": "https://github.com/legdanmx/AyPFigurasPHP"
     },
     {
         "name": "Mi Segundo Proyecto",
